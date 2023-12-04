@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744361480649",
+    "project_id": "portfolio-muqaddas-moeen",
+    "storage_bucket": "portfolio-muqaddas-moeen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744361480649:android:f636664690965f50919818",
+        "android_client_info": {
+          "package_name": "com.hmz.folio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvi12P5QvTZckyDgkDcVIZFmYmjNFa30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
