@@ -28,7 +28,7 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="favicon.png"/>
 
-    <title>Hamza</title>
+    <title>Muqaddas</title>
     <link rel="manifest" href="manifest.json">
 
     <style>
@@ -112,6 +112,21 @@
 
 </script>
 <script src="main.dart.js" type="application/javascript">
+
+
+    window.addEventListener('load', function(ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion,
+        }
+      }).then(function(engineInitializer) {
+        return engineInitializer.initializeEngine();
+      }).then(function(appRunner) {
+        return appRunner.runApp();
+      });
+    });
+
 </script>
 
 

@@ -74,7 +74,7 @@ class HomeTab extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  "Hamza",
+                  "Muqaddas",
                   style: AppText.h1b!.copyWith(
                     height: 1,
                   ),

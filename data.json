@@ -1,6 +1,6 @@
 {
-    "name": "Muhammad Hamza",
-    "email": "hamza@mhmz.dev",
+    "name": "Muhammad Muqaddas",
+    "email": "Muqaddas@mhmz.dev",
     "subtitles": [
         "Flutter Developer",
         "Technical Writer",
@@ -31,10 +31,10 @@
         },
         {
             "platform": "medium",
-            "url": "https://mhamzadev.medium.com/"
+            "url": "https://mMuqaddasdev.medium.com/"
         }
     ],
-    "aboutMeHeadline": "I'm Muhammad Hamza, a Flutter developer, Technical Writer and UI/UX Designer.",
+    "aboutMeHeadline": "I'm Muhammad Muqaddas, a Flutter developer, Technical Writer and UI/UX Designer.",
     "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
     "technologies": [
         "Flutter",
@@ -153,7 +153,7 @@
         },
         {
             "param": "email",
-            "value": "hamza.6.shakeel@gmail.com"
+            "value": "Muqaddas.6.shakeel@gmail.com"
         }
     ]
 }
